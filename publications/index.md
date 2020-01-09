@@ -11,7 +11,7 @@
 
 * Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2019).
 Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) and its wild progenitor (*O. rufipogon*). bioRxiv 2019.12.19.883231. <br>
-[(pdf)](/documents/KouLiao019bioRxivRice.pdf) [(doi)](https://doi.org/10.1101/2019.12.19.883231)
+[(pdf)](/documents/KouLiao2019bioRxivRice.pdf) [(doi)](https://doi.org/10.1101/2019.12.19.883231)
 
 * Zhang X.†, **Emerson J.J.**†, (2019).
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
