@@ -17,12 +17,12 @@ Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) and
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
-* Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2018).
-Physiological genomics of dietary adaptation in a marine herbivorous fish. bioRxiv 457705. <br>
-[(pdf)](/documents/Heras2018bioRxivCviol.pdf) [(doi)](https://doi.org/10.1101/457705)
-
-
 ## Published
+
+<a name = 'p25'></a>
+* Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2018).
+Physiological genomics of dietary adaptation in a marine herbivorous fish. Proc. R. Soc. B. 287. <br>
+[(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705)
 
 <a name = 'p24'></a>
 * Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D.† (2019).
