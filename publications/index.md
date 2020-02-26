@@ -21,7 +21,7 @@ Inferring the genetic architecture of expression variation from replicated high 
 
 <a name = 'p25'></a>
 * Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020).
-Physiological genomics of dietary adaptation in a marine herbivorous fish. Proc. R. Soc. B. 287. <br>
+Genomic and biochemical evidence of dietary adaptation in a marine herbivorous fish. Proc. R. Soc. B. 287. <br>
 [(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705)
 
 <a name = 'p24'></a>
