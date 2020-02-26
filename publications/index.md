@@ -9,7 +9,7 @@
 
 ## Preprints
 
-Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Montooth K., Meiklejohn C.D., Liao Y.,  Larracuente A.M.†, Emerson J.J.† (2020).
+* Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Montooth K., Meiklejohn C.D., Liao Y.,  Larracuente A.M.†, Emerson J.J.† (2020).
 Genome structure evolution in the _Drosophila simulans_ species complex. bioRxiv (Pending). <br>
 
 * Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2019).
