@@ -11,7 +11,7 @@
 
 * Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2020).
 Evolution of genome structure in the _Drosophila simulans_ species complex. bioRxiv 2020.02.27.968743. <br>
-[(pdf)](/documents/ChakrabortyChang2020bioRxiv_simcomplex.pdf) [(doi)](https://doi.org/10.1101/2020.02.27.968743)
+[(pdf)](/documents/ChakrabortyChang2020bioRxiv_simcomplex_v3.pdf) [(doi)](https://www.biorxiv.org/content/10.1101/2020.02.27.968743v3)
 
 * Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2019).
 Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) and its wild progenitor (*O. rufipogon*). bioRxiv 2019.12.19.883231. <br>
