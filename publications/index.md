@@ -9,6 +9,14 @@
 
 ## Preprints
 
+* Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2020).
+Hidden features of the malaria vector mosquito, _Anopheles stephensi_, revealed by a high-quality reference genome. bioRxiv 10.1101/2020.05.24.113019. <br>
+[(pdf)](/documents/ChakrabortyRamaiah2020bioRxiv_An_stephensi.pdf) [(doi)](https://doi.org/10.1101/2020.05.24.113019)
+
+* Liao Y.\*†, Zhang X., Chakraborty M., **Emerson J.J.**† (2020).
+Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. bioRxiv 2020.05.13.094516. <br>
+[(pdf)](/documents/Liao2020bioRxiv_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/2020.05.13.094516)
+
 * Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2020).
 Evolution of genome structure in the _Drosophila simulans_ species complex. bioRxiv 2020.02.27.968743. <br>
 [(pdf)](/documents/ChakrabortyChang2020bioRxiv_simcomplex_v3.pdf) [(doi)](https://www.biorxiv.org/content/10.1101/2020.02.27.968743v3)
