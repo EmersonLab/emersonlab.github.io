@@ -21,15 +21,16 @@ Topologically associating domains and their role in the evolution of genome stru
 Evolution of genome structure in the _Drosophila simulans_ species complex. bioRxiv 2020.02.27.968743. <br>
 [(pdf)](/documents/ChakrabortyChang2020bioRxiv_simcomplex_v3.pdf) [(doi)](https://www.biorxiv.org/content/10.1101/2020.02.27.968743v3)
 
-* Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2019).
-Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) and its wild progenitor (*O. rufipogon*). bioRxiv 2019.12.19.883231. <br>
-[(pdf)](/documents/KouLiao2019bioRxivRice.pdf) [(doi)](https://doi.org/10.1101/2019.12.19.883231)
-
 * Zhang X.†, **Emerson J.J.**†, (2019).
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
 ## Published
+
+<a name = 'p26'></a>
+* Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2020).
+Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) domestication. Mol. Biol. Evol. msaa185. <br>
+[(pdf)](/documents/KouLiao2020MBE.pdf) [(doi)](https://doi.org/10.1093/molbev/msaa185) [(preprint)](https://doi.org/10.1101/2019.12.19.883231)
 
 <a name = 'p25'></a>
 * Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020).
