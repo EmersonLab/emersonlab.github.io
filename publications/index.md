@@ -10,125 +10,109 @@
 ## Preprints
 
 
-* Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020).
+* Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020). <br>
 Efficient population modification gene-drive rescue system in the malaria mosquito *Anopheles stephensi*. bioRxiv 2020.08.02.233056 <br>
 [(pdf)](/documents/Adolfi2020bioRxiv_An_stephensi.pdf) [(doi)](https://doi.org/10.1101/2020.08.02.233056)
 
-* Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2020).
+* Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2020). <br>
 Hidden features of the malaria vector mosquito, _Anopheles stephensi_, revealed by a high-quality reference genome. bioRxiv 2020.05.24.113019. <br>
 [(pdf)](/documents/ChakrabortyRamaiah2020bioRxiv_An_stephensi.pdf) [(doi)](https://doi.org/10.1101/2020.05.24.113019)
 
-* Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2020).
+* Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2020). <br>
 Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. bioRxiv 2020.05.13.094516. <br>
 [(pdf)](/documents/Liao2020bioRxiv_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/2020.05.13.094516)
 
-* Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2020).
+* Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2020). <br>
 Evolution of genome structure in the _Drosophila simulans_ species complex. bioRxiv 2020.02.27.968743. <br>
 [(pdf)](/documents/ChakrabortyChang2020bioRxiv_simcomplex_v3.pdf) [(doi)](https://www.biorxiv.org/content/10.1101/2020.02.27.968743v3)
 
-* Zhang X.†, **Emerson J.J.**†, (2019).
+* Zhang X.†, **Emerson J.J.**†, (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
 ## Published
 
 <a name = 'p26'></a>
-* Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2020).
+* Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2020). <br>
 Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) domestication. Mol. Biol. Evol. msaa185. <br>
 [(pdf)](/documents/KouLiao2020MBE.pdf) [(doi)](https://doi.org/10.1093/molbev/msaa185) [(supp)](/documents/KouLiao2020MBESupplement.pdf) [(preprint)](https://doi.org/10.1101/2019.12.19.883231)
 
 <a name = 'p25'></a>
-* Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020).
+* Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020). <br>
 Genomic and biochemical evidence of dietary adaptation in a marine herbivorous fish. Proc. R. Soc. B. 287. <br>
 [(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705)
 
 <a name = 'p24'></a>
-* Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D.† (2019).
+* Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D.† (2019). <br>
 Structural variants exhibit allelic heterogeneity and shape variation in complex traits. Nature Communications *10* 4872. <br>
 [(pdf)](/documents/Chakraborty2019NatureCommunications.pdf) [(doi)](https://doi.org/10.1038/s41467-019-12884-1) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814777/) [(supp)](/documents/Chakraborty2019NatureCommunicationsSupplement.zip) [(preprint)](https://doi.org/10.1101/419275)
 
 <a name = 'p23'></a>
-* Zhang X. and **Emerson J.J.**† (2019).
+* Zhang X. and **Emerson J.J.**† (2019). <br>
 Inferring Compensatory Evolution of _cis_- and _trans_-Regulatory Variation. Trends in Genetics *35* 1-3. <br>
 [(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003) [(supp)](/documents/Zhang2019TiGSupplement.docx)
 
 <a name = 'p22'></a>
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
-**Emerson J.J.**†, Hawley R.S.† (2018).
-Rapid low-cost assembly of the *Drosophila melanogaster* reference genome
-using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics *8* 3143-3154. <br>
+**Emerson J.J.**†, Hawley R.S.† (2018). <br>
+Rapid low-cost assembly of the *Drosophila melanogaster* reference genome using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics *8* 3143-3154. <br>
 [(pdf)](/documents/Solares2018G3.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169397/) [(supp)](/documents/Solares2018G3Supplement.zip) [(preprint)](https://doi.org/10.1101/267401)
 
 <a name = 'p21'></a>
-* Chakraborty M.†, VanKuren N.W., Zhao R., Zhang X., Kalsow S., and **Emerson J.J.**† (2018).
-Hidden genetic variation shapes the structure of
-functional elements in *Drosophila*. Nature Genetics *50*, 20-25.  
+* Chakraborty M.†, VanKuren N.W., Zhao R., Zhang X., Kalsow S., and **Emerson J.J.**† (2018). <br>
+Hidden genetic variation shapes the structure of functional elements in *Drosophila*. Nature Genetics *50*, 20-25. <br>
 [(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/) [(supp)](/documents/Chakraborty2018NatureGeneticsSupplement.zip) [(preprint)](https://doi.org/10.1101/114967)
 
 <a name = 'p20'></a>
-* **Emerson J.J.**† (2017). Evolution: A Paradigm Shift in Snake Sex
-Chromosome Genetics. Current Biology *27*, R800–R803.  
+* **Emerson J.J.**† (2017). <br>
+Evolution: A Paradigm Shift in Snake Sex Chromosome Genetics. Current Biology *27*, R800–R803.  <br>
 [(pdf)](/documents/Emerson2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.06.079)
 
 <a name = 'p19'></a>
-* Long M.\*† and **Emerson J.J.**\*† (2017). Meiotic Sex Chromosome
-Inactivation: Compensation by Gene Traffic. Current Biology *27*,
-R659–R661.  
+* Long M.\*† and **Emerson J.J.**\*† (2017).  <br>
+Meiotic Sex Chromosome Inactivation: Compensation by Gene Traffic. Current Biology *27*,
+R659–R661. <br>
 [(pdf)](/documents/Long2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.05.077)
 
 <a name = 'p18'></a>
-* Chakraborty M., Baldwin-Brown J.G., Long A.D., and **Emerson J.J.**†
-(2016). Contiguous and accurate de novo assembly of metazoan genomes
-with modest long read coverage. Nucleic Acids Res *44*, e147–e147.  
+* Chakraborty M., Baldwin-Brown J.G., Long A.D., and **Emerson J.J.**† (2016). <br>
+Contiguous and accurate de novo assembly of metazoan genomes with modest long read coverage. Nucleic Acids Res *44*, e147–e147. <br>
 [(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip) [(preprint)](https://doi.org/10.1101/029306)
 
 <a name = 'p17'></a>
-* Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C.,
-and Li W.-H. (2013). Inheritance of Gene Expression Level and Selective
-Constraints on Trans- and Cis-Regulatory Changes in Yeast. Mol Biol Evol
-*30*, 2121–2133.  
+* Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C., and Li W.-H. (2013). <br>
+Inheritance of Gene Expression Level and Selective Constraints on Trans- and Cis-Regulatory Changes in Yeast. Mol Biol Evol *30*, 2121–2133. <br>
 [(pdf)](/documents/Schaefke2013MolBiolEvol.pdf) [(doi)](https://doi.org/10.1093/molbev/mst114) [(supp)](/documents/Schaefke2013MolBiolEvolSupplement.zip)
 
 <a name = 'p16'></a>
-* Vicoso B.\*, **Emerson J.J.**\*, Zektser Y., Mahajan S., and Bachtrog
-D. (2013). Comparative Sex Chromosome Genomics in Snakes:
-Differentiation, Evolutionary Strata, and Lack of Global Dosage
-Compensation. PLoS Biology *11*, e1001643.  
+* Vicoso B.\*, **Emerson J.J.**\*, Zektser Y., Mahajan S., and Bachtrog D. (2013). <br>
+Comparative Sex Chromosome Genomics in Snakes: Differentiation, Evolutionary Strata, and Lack of Global Dosage Compensation. PLoS Biology *11*, e1001643. <br>
 [(pdf)](/documents/Vicoso2013PLoSBio.pdf) [(doi)](https://doi.org/10.1371/journal.pbio.1001643) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754893/) [(supp)](/documents/Vicoso2013PLoSBioSupplement.zip)
 
 <a name = 'p15'></a>
-* Pool J.E., Corbett-Detig R.B., Sugino R.P., Stevens K.A., Cardeno
-C.M., Crepeau M.W., Duchen P., **Emerson J.J.**, Saelao P., Begun
-D.J., and Langley C.H. (2012). Population Genomics of Sub-Saharan *Drosophila
-melanogaster*: African Diversity and Non-African Admixture. PLoS
-Genetics *8*, e1003080.  
+* Pool J.E., Corbett-Detig R.B., Sugino R.P., Stevens K.A., Cardeno C.M., Crepeau M.W., Duchen P., **Emerson J.J.**, Saelao P., Begun D.J., and Langley C.H. (2012). <br>
+Population Genomics of Sub-Saharan *Drosophila melanogaster*: African Diversity and Non-African Admixture. PLoS Genetics *8*, e1003080. <br>
 [(pdf)](/documents/Pool2012PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1003080) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3527209/) [(supp)](/documents/Pool2012PLoSGenSupplement.zip)
 
 <a name = 'p14'></a>
-* Cardoso-Moreira M., **Emerson J.J.**, Clark A.G., and Long M.
-(2011). *Drosophila* Duplication Hotspots Are Associated with
-Late-Replicating Regions of the Genome. PLoS Genetics *7*, e1002340.  
+* Cardoso-Moreira M., **Emerson J.J.**, Clark A.G., and Long M. (2011). <br>
+*Drosophila* Duplication Hotspots Are Associated with Late-Replicating Regions of the Genome. PLoS Genetics *7*, e1002340. <br>
 [(pdf)](/documents/Cardoso-Moreira2011PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1002340) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3207856/) [(supp)](/documents/Cardoso-Moreira2011PLoSGenSupplement.zip)
 
 <a name = 'p13'></a>
-* Nikaido M., Sasaki T., **Emerson J.J.**, Aibara M., Mzighani S.I.,
-Budeba Y.L., Ngatunga B.P., Iwata M., Abe Y., Li W.-H., and Okada N.
-(2011). Genetically distinct coelacanth population off the northern
-Tanzanian coast. PNAS *108*, 18009–18013.  
+* Nikaido M., Sasaki T., **Emerson J.J.**, Aibara M., Mzighani S.I., Budeba Y.L., Ngatunga B.P., Iwata M., Abe Y., Li W.-H., and Okada N. (2011). <br>
+Genetically distinct coelacanth population off the northern Tanzanian coast. PNAS *108*, 18009–18013. <br>
 [(pdf)](/documents/Nikaido2011PNAS.pdf) [(doi)](https://doi.org/10.1073/pnas.1115675108) [(supp)](/documents/Nikaido2011PNASSupplement.zip)
 
 <a name = 'p12'></a>
-* **Emerson J.J.** and Li W.-H. (2010). The genetic basis of
-evolutionary change in gene expression levels. Philosophical
-Transactions of the Royal Society B: Biological Sciences *365*,
-2581–2590.  
+* **Emerson J.J.** and Li W.-H. (2010). <br>
+The genetic basis of evolutionary change in gene expression levels. Philosophical Transactions of the Royal Society B: Biological Sciences *365*, 2581–2590. <br>
 [(pdf)](/documents/Emerson2010PhilTransB.pdf) [(doi)](https://doi.org/10.1098/rstb.2010.0005) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2935095/)
 
 <a name = 'p11'></a>
 * **Emerson J.J.**\*, Hsieh L.-C.\*, Sung H.-M.\*, Wang T.-Y.\*, Huang C.-J.,
-Lu H.H.-S., Lu M.-Y.J., Wu S.-H., and Li W.-H. (2010). Natural
-selection on cis and trans regulation in yeasts. Genome Res. *20*,
-826–836.  
+Lu H.H.-S., Lu M.-Y.J., Wu S.-H., and Li W.-H. (2010). <br>
+Natural selection on cis and trans regulation in yeasts. Genome Res. *20*, 826–836. <br>
 [(pdf)](/documents/Emerson2010GenRes.pdf) [(doi)](https://doi.org/10.1101/gr.101576.109) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2877579/) [(supp)](/documents/Emerson2010GenResSupplement.zip)
 
 <a name = 'p10'></a>
