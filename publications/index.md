@@ -9,6 +9,9 @@
 
 ## Preprints
 
+* Durkin S.M., Chakraborty M., Abrieux A.,  Lewald K.M.,  Gadau A.,  Svetec N., Peng J., Kopyto M.,  Chiu J.C.,  **Emerson J.J.**,  Zhao L.† (2020). <br>
+Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. bioRxiv 2020.10.15.341594 <br>
+[(pdf)](/documents/Durkin2020bioRxiv_D_suzukii.pdf) [(doi)](https://doi.org/10.1101/2020.10.15.341594)
 
 * Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020). <br>
 Efficient population modification gene-drive rescue system in the malaria mosquito *Anopheles stephensi*. bioRxiv 2020.08.02.233056 <br>
