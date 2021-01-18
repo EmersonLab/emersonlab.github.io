@@ -33,7 +33,7 @@ Inferring the genetic architecture of expression variation from replicated high 
 
 <a name = 'p27'></a>
 * Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020). <br>
-Efficient population modification gene-drive rescue system in the malaria mosquito *Anopheles stephensi*. bioRxiv 2020.08.02.233056 <br>
+Efficient population modification gene-drive rescue system in the malaria mosquito *Anopheles stephensi*. Nature Communications *11* 5553. <br>
 [(pdf)](/documents/Adolfi2020NatComms_An_stephensi.pdf) [(doi)](https://doi.org/10.1038/s41467-020-19426-0) [(supp)](/documents/Adolfi2020NatComms_An_stephensiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.08.02.233056)
 
 <a name = 'p26'></a>
