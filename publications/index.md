@@ -13,15 +13,15 @@
 Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. bioRxiv 2020.10.15.341594 <br>
 [(pdf)](/documents/Durkin2020bioRxiv_D_suzukii.pdf) [(doi)](https://doi.org/10.1101/2020.10.15.341594)
 
-* Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2020). <br>
-Hidden features of the malaria vector mosquito, _Anopheles stephensi_, revealed by a high-quality reference genome. bioRxiv 2020.05.24.113019. <br>
-[(pdf)](/documents/ChakrabortyRamaiah2020bioRxiv_An_stephensi.pdf) [(doi)](https://doi.org/10.1101/2020.05.24.113019)
-
 * Zhang X.†, **Emerson J.J.**†, (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
 ## Published
+<a name = 'p30'></a>
+* Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2020). <br>
+Hidden features of the malaria vector mosquito, _Anopheles stephensi_, revealed by a high-quality reference genome. BMC Biol **19** 28. <br>
+[(pdf)](https://docs.google.com/uc?export=download&id=YourIndividualID) [(doi)](https://doi.org/10.1186/s12915-021-00963-z) [(supp)](/documents/ChakrabortyRamaiah2021BMCBio_An_stephensiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.24.113019)
 
 <a name = 'p29'></a>
 * Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2021). <br>
