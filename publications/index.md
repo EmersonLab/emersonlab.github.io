@@ -36,12 +36,12 @@ Evolution of genome structure in the _Drosophila simulans_ species complex. Geno
 <a name = 'p27'></a>
 * Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020). <br>
 Efficient population modification gene-drive rescue system in the malaria mosquito *Anopheles stephensi*. Nature Communications *11* 5553. <br>
-[(pdf)](/documents/Adolfi2020NatComms_An_stephensi.pdf) [(doi)](https://doi.org/10.1038/s41467-020-19426-0) [(supp)](/documents/Adolfi2020NatComms_An_stephensiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.08.02.233056)
+[(pdf)](/documents/Adolfi2020NatComms_An_stephensi.pdf) [(doi)](https://doi.org/10.1038/s41467-020-19426-0) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7609566/) [(supp)](/documents/Adolfi2020NatComms_An_stephensiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.08.02.233056)
 
 <a name = 'p26'></a>
 * Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2020). <br>
 Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) domestication. Mol. Biol. Evol. msaa185. <br>
-[(pdf)](/documents/KouLiao2020MBE.pdf) [(doi)](https://doi.org/10.1093/molbev/msaa185) [(supp)](/documents/KouLiao2020MBESupplement.pdf) [(preprint)](https://doi.org/10.1101/2019.12.19.883231)
+[(pdf)](/documents/KouLiao2020MBE.pdf) [(doi)](https://doi.org/10.1093/molbev/msaa185) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7743901/) [(supp)](/documents/KouLiao2020MBESupplement.pdf) [(preprint)](https://doi.org/10.1101/2019.12.19.883231)
 
 <a name = 'p25'></a>
 * Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020). <br>
