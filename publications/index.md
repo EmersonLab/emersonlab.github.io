@@ -26,12 +26,12 @@ Inferring the genetic architecture of expression variation from replicated high 
 <a name = 'p29'></a>
 * Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2021). <br>
 Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. Genome Research [Advance Online Article]. <br>
-[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/2020.05.13.094516)
+[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/2020.05.13.094516) [(pdf)](/documents/Liao2021GenRes_Dpse_TADsSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.05.13.094516)
 
 <a name = 'p28'></a>
 * Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2021). <br>
 Evolution of genome structure in the _Drosophila simulans_ species complex. Genome Research [Advance Online Article]. <br>
-[(pdf)](/documents/ChakrabortyChang2020GenRes_simcomplex.pdf) [(doi)](https://doi.org/10.1101/gr.263442.120) [(supp)](/documents/ChakrabortyChang2021GenRes_simcomplexSupplement.zip) [(preprint)](https://www.biorxiv.org/content/10.1101/2020.02.27.968743v4)
+[(pdf)](/documents/ChakrabortyChang2021GenRes_simcomplex.pdf) [(doi)](https://doi.org/10.1101/gr.263442.120) [(supp)](/documents/ChakrabortyChang2021GenRes_simcomplexSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.02.27.968743)
 
 <a name = 'p27'></a>
 * Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020). <br>
