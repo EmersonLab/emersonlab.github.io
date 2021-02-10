@@ -21,7 +21,7 @@ Inferring the genetic architecture of expression variation from replicated high 
 <a name = 'p30'></a>
 * Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2020). <br>
 Hidden features of the malaria vector mosquito, _Anopheles stephensi_, revealed by a high-quality reference genome. BMC Biol **19** 28. <br>
-[(pdf)](https://docs.google.com/uc?export=download&id=YourIndividualID) [(doi)](https://doi.org/10.1186/s12915-021-00963-z) [(supp)](/documents/ChakrabortyRamaiah2021BMCBio_An_stephensiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.24.113019)
+[(pdf)](https://docs.google.com/uc?export=download&id=12K4r1pyagyuO-8i9Hci3ruOIJyy5MGzc) [(doi)](https://doi.org/10.1186/s12915-021-00963-z) [(supp)](/documents/ChakrabortyRamaiah2021BMCBio_An_stephensiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.24.113019)
 
 <a name = 'p29'></a>
 * Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2021). <br>
