@@ -26,7 +26,7 @@ Inferring the genetic architecture of expression variation from replicated high 
 <a name = 'p29'></a>
 * Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2021). <br>
 Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. Genome Research [Advance Online Article]. <br>
-[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/2020.05.13.094516) [(pdf)](/documents/Liao2021GenRes_Dpse_TADsSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.05.13.094516)
+[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://10.1101/gr.266130.120) [(supplement)](/documents/Liao2021GenRes_Dpse_TADsSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.13.094516)
 
 <a name = 'p28'></a>
 * Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2021). <br>
