@@ -9,15 +9,16 @@
 
 ## Preprints
 
-* Durkin S.M., Chakraborty M., Abrieux A.,  Lewald K.M.,  Gadau A.,  Svetec N., Peng J., Kopyto M.,  Chiu J.C.,  **Emerson J.J.**,  Zhao L.† (2020). <br>
-Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. bioRxiv 2020.10.15.341594 <br>
-[(pdf)](/documents/Durkin2020bioRxiv_D_suzukii.pdf) [(doi)](https://doi.org/10.1101/2020.10.15.341594)
-
 * Zhang X.†, **Emerson J.J.**†, (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
 ## Published
+<a name = 'p31'></a>
+* Durkin S.M., Chakraborty M., Abrieux A.,  Lewald K.M.,  Gadau A.,  Svetec N., Peng J., Kopyto M.,  Chiu J.C.,  **Emerson J.J.**,  Zhao L.† (2021). <br>
+Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. Mol. Biol. Evol. msab048. <br>
+[(pdf)](/documents/Durkin2020MBE_D_suzukii.pdf) [(doi)](https://doi.org/10.1093/molbev/msab048) [(pdf)](/documents/Durkin2020MBE_D_suzukiiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.10.15.341594)
+
 <a name = 'p30'></a>
 * Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2021). <br>
 Hidden genomic features of an invasive malaria vector, _Anopheles stephensi_, revealed by a chromosome-level genome assembly. BMC Biol **19** 28. <br>
