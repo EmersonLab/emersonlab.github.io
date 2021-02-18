@@ -22,27 +22,27 @@ Behavioral and genomic sensory adaptations underlying the pest activity of *Dros
 <a name = 'p30'></a>
 * Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2021). <br>
 Hidden genomic features of an invasive malaria vector, _Anopheles stephensi_, revealed by a chromosome-level genome assembly. BMC Biol **19** 28. <br>
-[(pdf)](https://docs.google.com/uc?export=download&id=12K4r1pyagyuO-8i9Hci3ruOIJyy5MGzc) [(doi)](https://doi.org/10.1186/s12915-021-00963-z) [(supp)](/documents/ChakrabortyRamaiah2021BMCBio_An_stephensiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.24.113019)
+[(pdf)](https://docs.google.com/uc?export=download&id=12K4r1pyagyuO-8i9Hci3ruOIJyy5MGzc) [(doi)](https://doi.org/10.1186/s12915-021-00963-z) [(supp)](/documents/ChakrabortyRamaiah2021BMCBio_An_stephensiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.24.113019) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10128817307408556893,10065985098367620906)
 
 <a name = 'p29'></a>
 * Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2021). <br>
 Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. Genome Research [Advance Online Article]. <br>
-[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/gr.266130.120) [(supp)](/documents/Liao2021GenRes_Dpse_TADsSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.13.094516)
+[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/gr.266130.120) [(supp)](/documents/Liao2021GenRes_Dpse_TADsSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.13.094516) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012320759112910724)
 
 <a name = 'p28'></a>
 * Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2021). <br>
 Evolution of genome structure in the _Drosophila simulans_ species complex. Genome Research [Advance Online Article]. <br>
-[(pdf)](/documents/ChakrabortyChang2021GenRes_simcomplex.pdf) [(doi)](https://doi.org/10.1101/gr.263442.120) [(supp)](/documents/ChakrabortyChang2021GenRes_simcomplexSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.02.27.968743)
+[(pdf)](/documents/ChakrabortyChang2021GenRes_simcomplex.pdf) [(doi)](https://doi.org/10.1101/gr.263442.120) [(supp)](/documents/ChakrabortyChang2021GenRes_simcomplexSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.02.27.968743) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12811064939444055187)
 
 <a name = 'p27'></a>
 * Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020). <br>
 Efficient population modification gene-drive rescue system in the malaria mosquito *Anopheles stephensi*. Nature Communications *11* 5553. <br>
-[(pdf)](/documents/Adolfi2020NatComms_An_stephensi.pdf) [(doi)](https://doi.org/10.1038/s41467-020-19426-0) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7609566/) [(supp)](/documents/Adolfi2020NatComms_An_stephensiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.08.02.233056)
+[(pdf)](/documents/Adolfi2020NatComms_An_stephensi.pdf) [(doi)](https://doi.org/10.1038/s41467-020-19426-0) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7609566/) [(supp)](/documents/Adolfi2020NatComms_An_stephensiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.08.02.233056) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1675297254395351558)
 
 <a name = 'p26'></a>
 * Kou Y.\*, Liao Y.\*, Toivainen T., Lv Y., Tian X., **Emerson J.J.**, Gaut B.S.†, Zhou Y.† (2020). <br>
 Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) domestication. Mol. Biol. Evol. msaa185. <br>
-[(pdf)](/documents/KouLiao2020MBE.pdf) [(doi)](https://doi.org/10.1093/molbev/msaa185) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7743901/) [(supp)](/documents/KouLiao2020MBESupplement.pdf) [(preprint)](https://doi.org/10.1101/2019.12.19.883231)
+[(pdf)](/documents/KouLiao2020MBE.pdf) [(doi)](https://doi.org/10.1093/molbev/msaa185) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7743901/) [(supp)](/documents/KouLiao2020MBESupplement.pdf) [(preprint)](https://doi.org/10.1101/2019.12.19.883231) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11292107199827281134,12221614290703595530)
 
 <a name = 'p25'></a>
 * Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020). <br>
