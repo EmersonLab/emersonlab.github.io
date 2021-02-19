@@ -47,44 +47,44 @@ Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) dom
 <a name = 'p25'></a>
 * Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020). <br>
 Genomic and biochemical evidence of dietary adaptation in a marine herbivorous fish. Proc. R. Soc. B. 287. <br>
-[(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705)
+[(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11663346310448937264,11910188989131780502)
 
 <a name = 'p24'></a>
 * Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D.† (2019). <br>
 Structural variants exhibit allelic heterogeneity and shape variation in complex traits. Nature Communications *10* 4872. <br>
-[(pdf)](/documents/Chakraborty2019NatureCommunications.pdf) [(doi)](https://doi.org/10.1038/s41467-019-12884-1) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814777/) [(supp)](/documents/Chakraborty2019NatureCommunicationsSupplement.zip) [(preprint)](https://doi.org/10.1101/419275)
+[(pdf)](/documents/Chakraborty2019NatureCommunications.pdf) [(doi)](https://doi.org/10.1038/s41467-019-12884-1) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6814777/) [(supp)](/documents/Chakraborty2019NatureCommunicationsSupplement.zip) [(preprint)](https://doi.org/10.1101/419275) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12926639265368045399)
 
 <a name = 'p23'></a>
 * Zhang X. and **Emerson J.J.**† (2019). <br>
 Inferring Compensatory Evolution of _cis_- and _trans_-Regulatory Variation. Trends in Genetics *35* 1-3. <br>
-[(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003) [(supp)](/documents/Zhang2019TiGSupplement.docx)
+[(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003) [(supp)](/documents/Zhang2019TiGSupplement.docx) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14730346390759900075)
 
 <a name = 'p22'></a>
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
 **Emerson J.J.**†, Hawley R.S.† (2018). <br>
 Rapid low-cost assembly of the *Drosophila melanogaster* reference genome using low-coverage, long-read sequencing. G3: Genes, Genomes, Genetics *8* 3143-3154. <br>
-[(pdf)](/documents/Solares2018G3.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169397/) [(supp)](/documents/Solares2018G3Supplement.zip) [(preprint)](https://doi.org/10.1101/267401)
+[(pdf)](/documents/Solares2018G3.pdf) [(doi)](https://doi.org/10.1534/g3.118.200162) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6169397/) [(supp)](/documents/Solares2018G3Supplement.zip) [(preprint)](https://doi.org/10.1101/267401) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13095704088310158489)
 
 <a name = 'p21'></a>
 * Chakraborty M.†, VanKuren N.W., Zhao R., Zhang X., Kalsow S., and **Emerson J.J.**† (2018). <br>
 Hidden genetic variation shapes the structure of functional elements in *Drosophila*. Nature Genetics *50*, 20-25. <br>
-[(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/) [(supp)](/documents/Chakraborty2018NatureGeneticsSupplement.zip) [(preprint)](https://doi.org/10.1101/114967)
+[(pdf)](/documents/Chakraborty2018NatureGenetics.pdf) [(doi)](https://doi.org/10.1038/s41588-017-0010-y) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742068/) [(supp)](/documents/Chakraborty2018NatureGeneticsSupplement.zip) [(preprint)](https://doi.org/10.1101/114967) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12132767401470332615)
 
 <a name = 'p20'></a>
 * **Emerson J.J.**† (2017). <br>
 Evolution: A Paradigm Shift in Snake Sex Chromosome Genetics. Current Biology *27*, R800–R803.  <br>
-[(pdf)](/documents/Emerson2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.06.079)
+[(pdf)](/documents/Emerson2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.06.079) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11302105207151570913)
 
 <a name = 'p19'></a>
 * Long M.\*† and **Emerson J.J.**\*† (2017).  <br>
 Meiotic Sex Chromosome Inactivation: Compensation by Gene Traffic. Current Biology *27*,
 R659–R661. <br>
-[(pdf)](/documents/Long2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.05.077)
+[(pdf)](/documents/Long2017CurrBiol.pdf) [(doi)](https://doi.org/10.1016/j.cub.2017.05.077) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16609954322381542662)
 
 <a name = 'p18'></a>
 * Chakraborty M., Baldwin-Brown J.G., Long A.D., and **Emerson J.J.**† (2016). <br>
 Contiguous and accurate de novo assembly of metazoan genomes with modest long read coverage. Nucleic Acids Res *44*, e147–e147. <br>
-[(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip) [(preprint)](https://doi.org/10.1101/029306)
+[(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip) [(preprint)](https://doi.org/10.1101/029306) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14843707696417085168,3636395027459485028)
 
 <a name = 'p17'></a>
 * Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C., and Li W.-H. (2013). <br>
