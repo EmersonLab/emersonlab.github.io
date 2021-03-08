@@ -17,7 +17,7 @@ Inferring the genetic architecture of expression variation from replicated high 
 <a name = 'p31'></a>
 * Durkin S.M., Chakraborty M., Abrieux A.,  Lewald K.M.,  Gadau A.,  Svetec N., Peng J., Kopyto M.,  Chiu J.C.,  **Emerson J.J.**,  Zhao L.† (2021). <br>
 Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. Mol. Biol. Evol. msab048. <br>
-[(pdf)](/documents/Durkin2020MBE_D_suzukii.pdf) [(doi)](https://doi.org/10.1093/molbev/msab048) [(supp)](/documents/Durkin2020MBE_D_suzukiiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.10.15.341594)
+[(pdf)](/documents/Durkin2020MBE_D_suzukii.pdf) [(doi)](https://doi.org/10.1093/molbev/msab048) [(supp)](/documents/Durkin2020MBE_D_suzukiiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.10.15.341594)
 
 <a name = 'p30'></a>
 * Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2021). <br>
@@ -26,12 +26,12 @@ Hidden genomic features of an invasive malaria vector, _Anopheles stephensi_, re
 
 <a name = 'p29'></a>
 * Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2021). <br>
-Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. Genome Research [Advance Online Article]. <br>
+Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. Genome Research **31**: 397-410. <br>
 [(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/gr.266130.120) [(supp)](/documents/Liao2021GenRes_Dpse_TADsSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.13.094516) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012320759112910724)
 
 <a name = 'p28'></a>
 * Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2021). <br>
-Evolution of genome structure in the _Drosophila simulans_ species complex. Genome Research [Advance Online Article]. <br>
+Evolution of genome structure in the _Drosophila simulans_ species complex. Genome Research **31**: 380-396. <br>
 [(pdf)](/documents/ChakrabortyChang2021GenRes_simcomplex.pdf) [(doi)](https://doi.org/10.1101/gr.263442.120) [(supp)](/documents/ChakrabortyChang2021GenRes_simcomplexSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.02.27.968743) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12811064939444055187)
 
 <a name = 'p27'></a>
@@ -118,7 +118,7 @@ The genetic basis of evolutionary change in gene expression levels. Philosophica
 
 <a name = 'p11'></a>
 * **Emerson J.J.**\*, Hsieh L.-C.\*, Sung H.-M.\*, Wang T.-Y.\*, Huang C.-J., Lu H.H.-S., Lu M.-Y.J., Wu S.-H., and Li W.-H. (2010). <br>
-Natural selection on cis and trans regulation in yeasts. Genome Res. *20*, 826–836. <br>
+Natural selection on cis and trans regulation in yeasts. Genome Research *20*, 826–836. <br>
 [(pdf)](/documents/Emerson2010GenRes.pdf) [(doi)](https://doi.org/10.1101/gr.101576.109) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2877579/) [(supp)](/documents/Emerson2010GenResSupplement.zip)
 
 <a name = 'p10'></a>
