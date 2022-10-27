@@ -27,7 +27,7 @@ The 3D architecture of the pepper genome and its relationship to function and ev
 <a name = 'p31'></a>
 * Durkin S.M., Chakraborty M., Abrieux A.,  Lewald K.M.,  Gadau A.,  Svetec N., Peng J., Kopyto M.,  Chiu J.C.,  **Emerson J.J.**,  Zhao L.† (2021). <br>
 Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. Mol. Biol. Evol. msab048. <br>
-[(pdf)](/documents/Durkin2020MBE_D_suzukii.pdf) [(doi)](https://doi.org/10.1093/molbev/msab048) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136512/) [(supp)](/documents/Durkin2020MBE_D_suzukiiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.10.15.341594)
+[(pdf)](/documents/Durkin2020MBE_D_suzukii.pdf) [(doi)](https://doi.org/10.1093/molbev/msab048) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136512/) [(supp)](/documents/Durkin2020MBE_D_suzukiiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.10.15.341594) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5751720850624764567)
 
 <a name = 'p30'></a>
 * Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2021). <br>
@@ -99,22 +99,22 @@ Contiguous and accurate de novo assembly of metazoan genomes with modest long re
 <a name = 'p17'></a>
 * Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C., and Li W.-H. (2013). <br>
 Inheritance of Gene Expression Level and Selective Constraints on Trans- and Cis-Regulatory Changes in Yeast. Mol Biol Evol *30*, 2121–2133. <br>
-[(pdf)](/documents/Schaefke2013MolBiolEvol.pdf) [(doi)](https://doi.org/10.1093/molbev/mst114) [(supp)](/documents/Schaefke2013MolBiolEvolSupplement.zip)
+[(pdf)](/documents/Schaefke2013MolBiolEvol.pdf) [(doi)](https://doi.org/10.1093/molbev/mst114) [(supp)](/documents/Schaefke2013MolBiolEvolSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5387154761202960820)
 
 <a name = 'p16'></a>
 * Vicoso B.\*, **Emerson J.J.**\*, Zektser Y., Mahajan S., and Bachtrog D. (2013). <br>
 Comparative Sex Chromosome Genomics in Snakes: Differentiation, Evolutionary Strata, and Lack of Global Dosage Compensation. PLoS Biology *11*, e1001643. <br>
-[(pdf)](/documents/Vicoso2013PLoSBio.pdf) [(doi)](https://doi.org/10.1371/journal.pbio.1001643) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754893/) [(supp)](/documents/Vicoso2013PLoSBioSupplement.zip)
+[(pdf)](/documents/Vicoso2013PLoSBio.pdf) [(doi)](https://doi.org/10.1371/journal.pbio.1001643) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754893/) [(supp)](/documents/Vicoso2013PLoSBioSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477179101938026431,11552144124554439523)
 
 <a name = 'p15'></a>
 * Pool J.E., Corbett-Detig R.B., Sugino R.P., Stevens K.A., Cardeno C.M., Crepeau M.W., Duchen P., **Emerson J.J.**, Saelao P., Begun D.J., and Langley C.H. (2012). <br>
 Population Genomics of Sub-Saharan *Drosophila melanogaster*: African Diversity and Non-African Admixture. PLoS Genetics *8*, e1003080. <br>
-[(pdf)](/documents/Pool2012PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1003080) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3527209/) [(supp)](/documents/Pool2012PLoSGenSupplement.zip)
+[(pdf)](/documents/Pool2012PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1003080) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3527209/) [(supp)](/documents/Pool2012PLoSGenSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17844442895627523184,8791947515736466096)
 
 <a name = 'p14'></a>
 * Cardoso-Moreira M., **Emerson J.J.**, Clark A.G., and Long M. (2011). <br>
 *Drosophila* Duplication Hotspots Are Associated with Late-Replicating Regions of the Genome. PLoS Genetics *7*, e1002340. <br>
-[(pdf)](/documents/Cardoso-Moreira2011PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1002340) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3207856/) [(supp)](/documents/Cardoso-Moreira2011PLoSGenSupplement.zip)
+[(pdf)](/documents/Cardoso-Moreira2011PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1002340) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3207856/) [(supp)](/documents/Cardoso-Moreira2011PLoSGenSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12162824910502002246)
 
 <a name = 'p13'></a>
 * Nikaido M., Sasaki T., **Emerson J.J.**, Aibara M., Mzighani S.I., Budeba Y.L., Ngatunga B.P., Iwata M., Abe Y., Li W.-H., and Okada N. (2011). <br>
