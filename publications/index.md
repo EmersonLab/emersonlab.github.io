@@ -11,7 +11,7 @@
 
 * Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., Emerson J.J.†, Briscoe A.† (2022). <br>
 Sex-linked gene traffic underlies the acquisition of sexually dimorphic UV color vision in Heliconius butterflies. bioRxiv 2022.07.04.498748. <br>
-[(pdf)](/documents/Chakraborty2022bioRxiv.pdf) [(doi)](https://doi.org/10.1101/2022.07.04.498748) [(supp)](Chakraborty2022bioRxiv_Supplement.pdf)
+[(pdf)](/documents/Chakraborty2022bioRxiv.pdf) [(doi)](https://doi.org/10.1101/2022.07.04.498748) [(supp)](/documents/Chakraborty2022bioRxiv_Supplement.pdf)
 
 * Zhang X.†, **Emerson J.J.**†, (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
