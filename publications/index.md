@@ -9,11 +9,21 @@
 
 ## Preprints
 
+* Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., Emerson J.J.†, Briscoe A.† (2022). <br>
+Sex-linked gene traffic underlies the acquisition of sexually dimorphic UV color vision in Heliconius butterflies. bioRxiv 2022.07.04.498748. <br>
+[(pdf)](/documents/Chakraborty2022bioRxiv.pdf) [(doi)](https://doi.org/10.1101/2022.07.04.498748) [(supp)](Chakraborty2022bioRxiv_Supplement.pdf)
+
 * Zhang X.†, **Emerson J.J.**†, (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
 ## Published
+
+<a name = 'p32'></a>
+* Liao Y.\*, Wang J.\*, Zhu Z., Liu Y., Chen J., Zhou Y., Liu F., Lei J., Gaut B.S., Cao B.†, **Emerson J.J.**†, Chen C.† (2022) <br>
+The 3D architecture of the pepper genome and its relationship to function and evolution traits. Nature Communications *13* 3479. <br>
+[(pdf)](/documents/LiaoWang2022NatureCommunications.pdf) [(doi)](https://doi.org/10.1038/s41467-022-31112-x) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9203530/) [(supp)](/documents/LiaoWang2022NatureCommunications_Supplement.pdf) [(preprint)](https://doi.org/10.1101/2021.12.10.470457) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12990518347285690738,4511139984836538340)
+
 <a name = 'p31'></a>
 * Durkin S.M., Chakraborty M., Abrieux A.,  Lewald K.M.,  Gadau A.,  Svetec N., Peng J., Kopyto M.,  Chiu J.C.,  **Emerson J.J.**,  Zhao L.† (2021). <br>
 Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. Mol. Biol. Evol. msab048. <br>
