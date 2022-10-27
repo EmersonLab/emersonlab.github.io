@@ -27,22 +27,22 @@ The 3D architecture of the pepper genome and its relationship to function and ev
 <a name = 'p31'></a>
 * Durkin S.M., Chakraborty M., Abrieux A.,  Lewald K.M.,  Gadau A.,  Svetec N., Peng J., Kopyto M.,  Chiu J.C.,  **Emerson J.J.**,  Zhao L.† (2021). <br>
 Behavioral and genomic sensory adaptations underlying the pest activity of *Drosophila suzukii*. Mol. Biol. Evol. msab048. <br>
-[(pdf)](/documents/Durkin2020MBE_D_suzukii.pdf) [(doi)](https://doi.org/10.1093/molbev/msab048) [(supp)](/documents/Durkin2020MBE_D_suzukiiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.10.15.341594)
+[(pdf)](/documents/Durkin2020MBE_D_suzukii.pdf) [(doi)](https://doi.org/10.1093/molbev/msab048) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8136512/) [(supp)](/documents/Durkin2020MBE_D_suzukiiSupplement.pdf) [(preprint)](https://doi.org/10.1101/2020.10.15.341594)
 
 <a name = 'p30'></a>
 * Chakraborty M.\*, Ramaiah A.\*, Adolfi A., Halas P., Kaduskar B., Ngo L.T., Jayaprasad S., Paul K., Whadgar S., Srinivasan S., Subramani S.,  Bier E., James A.A., **Emerson J.J.**† (2021). <br>
 Hidden genomic features of an invasive malaria vector, _Anopheles stephensi_, revealed by a chromosome-level genome assembly. BMC Biol **19** 28. <br>
-[(pdf)](https://docs.google.com/uc?export=download&id=12K4r1pyagyuO-8i9Hci3ruOIJyy5MGzc) [(doi)](https://doi.org/10.1186/s12915-021-00963-z) [(supp)](/documents/ChakrabortyRamaiah2021BMCBio_An_stephensiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.24.113019) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10128817307408556893,10065985098367620906)
+[(pdf)](https://docs.google.com/uc?export=download&id=12K4r1pyagyuO-8i9Hci3ruOIJyy5MGzc) [(doi)](https://doi.org/10.1186/s12915-021-00963-z) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7876825/) [(supp)](/documents/ChakrabortyRamaiah2021BMCBio_An_stephensiSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.24.113019) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10128817307408556893,10065985098367620906)
 
 <a name = 'p29'></a>
 * Liao Y.†, Zhang X., Chakraborty M., **Emerson J.J.**† (2021). <br>
 Topologically associating domains and their role in the evolution of genome structure and function in _Drosophila_. Genome Research **31**: 397-410. <br>
-[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/gr.266130.120) [(supp)](/documents/Liao2021GenRes_Dpse_TADsSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.13.094516) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012320759112910724)
+[(pdf)](/documents/Liao2021GenRes_Dpse_TADs.pdf) [(doi)](https://doi.org/10.1101/gr.266130.120) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7919452/) [(supp)](/documents/Liao2021GenRes_Dpse_TADsSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.05.13.094516) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012320759112910724)
 
 <a name = 'p28'></a>
 * Chakraborty M.\*, Chang C.-H.\*, Khost D.E., Vedanayagam J., Adrion J.R., Liao Y., Montooth K., Meiklejohn C.D.,  Larracuente A.M.†, **Emerson J.J.**† (2021). <br>
 Evolution of genome structure in the _Drosophila simulans_ species complex. Genome Research **31**: 380-396. <br>
-[(pdf)](/documents/ChakrabortyChang2021GenRes_simcomplex.pdf) [(doi)](https://doi.org/10.1101/gr.263442.120) [(supp)](/documents/ChakrabortyChang2021GenRes_simcomplexSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.02.27.968743) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12811064939444055187)
+[(pdf)](/documents/ChakrabortyChang2021GenRes_simcomplex.pdf) [(doi)](https://doi.org/10.1101/gr.263442.120) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7919458/) [(supp)](/documents/ChakrabortyChang2021GenRes_simcomplexSupplement.zip) [(preprint)](https://doi.org/10.1101/2020.02.27.968743) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12811064939444055187)
 
 <a name = 'p27'></a>
 * Adolfi A.,  Gantz V.M., Jasinskiene N.,  Lee H.-F., Hwang K.,  Bulger E.A., Ramaiah A., Bennett J.B., Terradas G.,  **Emerson J.J.**,  Marshall J.M., Bier E.,  James A.A.† (2020). <br>
@@ -57,7 +57,7 @@ Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) dom
 <a name = 'p25'></a>
 * Heras J.†, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020). <br>
 Genomic and biochemical evidence of dietary adaptation in a marine herbivorous fish. Proc. R. Soc. B. 287. <br>
-[(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11663346310448937264,11910188989131780502)
+[(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7062031/) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11663346310448937264,11910188989131780502)
 
 <a name = 'p24'></a>
 * Chakraborty M.†,  **Emerson J.J.**, Macdonald S.J., Long A.D.† (2019). <br>
@@ -67,7 +67,7 @@ Structural variants exhibit allelic heterogeneity and shape variation in complex
 <a name = 'p23'></a>
 * Zhang X. and **Emerson J.J.**† (2019). <br>
 Inferring Compensatory Evolution of _cis_- and _trans_-Regulatory Variation. Trends in Genetics *35* 1-3. <br>
-[(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003) [(supp)](/documents/Zhang2019TiGSupplement.docx) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14730346390759900075)
+[(pdf)](/documents/Zhang2019TiG.pdf) [(doi)](https://doi.org/10.1016/j.tig.2018.11.003) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8244802/) [(supp)](/documents/Zhang2019TiGSupplement.docx) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14730346390759900075)
 
 <a name = 'p22'></a>
 * Solares E.A.\*, Chakraborty M.\*,  Miller D.E., Kalsow S., Hall K.E., Perera A.G.,
