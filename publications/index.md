@@ -21,7 +21,7 @@ Sex-linked gene traffic underlies the acquisition of sexually dimorphic UV color
 [(pdf)](/documents/Chakraborty2023HeliconiusOpsinTraffic.pdf) [(doi)](https://doi.org/10.1073/pnas.2301411120) (pmc) [(supp)](/documents/Chakraborty2023HeliconiusOpsinTraffic_Supplement.pdf) [(preprint)](https://doi.org/10.1101/2022.07.04.498748) (gs)
 
 <a name = 'p33'></a>
-* Zhao R., Lukacsovich T., Gaut R., Emerson J.J. (2023)
+* Zhao R., Lukacsovich T., Gaut R., Emerson J.J. (2023). <br>
 FREQ-Seq<sup>2</sup>: a method for precise high-throughput combinatorial quantification of allele frequencies. G3: Genes, Genomes, Genetics jkad162. <br>
 [(pdf)](/documents/Zhao2023FreqSeq2.pdf) [(doi)](https://doi.org/10.1093/g3journal/jkad162) (pmc) [(supp)](/documents/Zhao2023FreqSeq2_Supplement.pdf) (gs)
 
