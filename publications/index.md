@@ -16,7 +16,7 @@ Inferring the genetic architecture of expression variation from replicated high 
 ## Published
 
 <a name = 'p34'></a>
-* Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., **Emerson J.J.**†, Briscoe A.† (2023). <br>
+* Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Carter D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., **Emerson J.J.**†, Briscoe A.† (2023). <br>
 Sex-linked gene traffic underlies the acquisition of sexually dimorphic UV color vision in Heliconius butterflies. PNAS *120*, e2301411120. <br>
 [(pdf)](/documents/Chakraborty2023HeliconiusOpsinTraffic.pdf) [(doi)](https://doi.org/10.1073/pnas.2301411120) (pmc) [(supp)](/documents/Chakraborty2023HeliconiusOpsinTraffic_Supplement.pdf) [(preprint)](https://doi.org/10.1101/2022.07.04.498748) (gs)
 
