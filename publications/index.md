@@ -9,15 +9,21 @@
 
 ## Preprints
 
-* Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., **Emerson J.J.**†, Briscoe A.† (2022). <br>
-Sex-linked gene traffic underlies the acquisition of sexually dimorphic UV color vision in Heliconius butterflies. bioRxiv 2022.07.04.498748. <br>
-[(pdf)](/documents/Chakraborty2022bioRxiv.pdf) [(doi)](https://doi.org/10.1101/2022.07.04.498748) [(supp)](/documents/Chakraborty2022bioRxiv_Supplement.pdf)
-
 * Zhang X.†, **Emerson J.J.**†, (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
 ## Published
+
+<a name = 'p34'></a>
+* Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., **Emerson J.J.**†, Briscoe A.† (2023). <br>
+Sex-linked gene traffic underlies the acquisition of sexually dimorphic UV color vision in Heliconius butterflies. PNAS *120*, e2301411120. <br>
+[(pdf)](/documents/Chakraborty2023HeliconiusOpsinTraffic.pdf) [(doi)](https://doi.org/10.1073/pnas.230141112) [(supp)](/documents/Chakraborty2023HeliconiusOpsinTraffic_Supplement.pdf) [(preprint)](https://doi.org/10.1101/2022.07.04.498748) (gs)
+
+<a name = 'p33'></a>
+Zhao R., Lukacsovich T., Gaut R., Emerson J.J. (2023)
+FREQ-Seq<sup>2</sup>: a method for precise high-throughput combinatorial quantification of allele frequencies. G3: Genes, Genomes, Genetics *8* 3143-3154. <br>
+[(pdf)](/documents/Zhao2023FreqSeq2.pdf) [(doi)](https://doi.org/10.1093/g3journal/jkad162) (pmc) [(supp)](/documents/Zhao2023FreqSeq2_Supplement.pdf) (gs)
 
 <a name = 'p32'></a>
 * Liao Y.\*, Wang J.\*, Zhu Z., Liu Y., Chen J., Zhou Y., Liu F., Lei J., Gaut B.S., Cao B.†, **Emerson J.J.**†, Chen C.† (2022) <br>
