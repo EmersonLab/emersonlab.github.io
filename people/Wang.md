@@ -14,9 +14,11 @@ Wet lab, genome assembly, phylogeny, bioinformatics, visualization.
 Botany, light microscopy
 
 #### Current Personal Website
+
 [Personal Website](https://www.jen-yu-evolves.com/)
 
-#### I am moving to new service provider. This is under construction underconstruction
+#### I am moving to new service provider. This is under construction.
+
 [New website](https://zxymm56312.myportfolio.com/)
 
 
