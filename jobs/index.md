@@ -2,7 +2,7 @@
 
 ## Postdoctoral position
 
-We are looking to hire an NIH-funded postdoctoral researcher. We are currently in the process setting up the job with HR. When the job becomes available, please [apply here](/jobs/sv_postdoc.html). For informal inquiries, please [see my personal page](/people/Emerson.html).
+We will soon be looking to hire an NIH-funded postdoctoral researcher. The job is pending approval of NIH funding, so no offers can yet be made. When the job becomes available, we will update this page. For informal inquiries, please [see my personal page](/people/Emerson.html).
 
 ## Undergraduate opportunities
 
