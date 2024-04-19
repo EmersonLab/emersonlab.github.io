@@ -7,7 +7,8 @@ Twitter: [@JJ_Emerson](https://twitter.com/JJ_Emerson)
 [UCI Contact Information](http://www.faculty.uci.edu/profile.cfm?faculty_id=5987)  
 
 ## Academic History
-* 2013-present, Assistant Professor, Department of Ecology & Evolutionary Biology, Center for Complexy Systems Biology, UC Irvine
+* 2020-present, Associate Professor, Department of Ecology & Evolutionary Biology, Center for Complex Systems Biology, UC Irvine
+* 2013-2020, Assistant Professor, Department of Ecology & Evolutionary Biology, Center for Complex Systems Biology, UC Irvine
 * 2010-2013, Postdoctoral Researcher with Doris Bachtrog, Integrative Biology, UC Berkeley
 * 2007-2010, Postdoctoral Fellow with Wen-Hsiung Li, Genomics Research Center, Academia Sinica, Taiwan
 * 2006, PhD with Manyuan Long, Ecology & Evolutionary Biology, University of Chicago
