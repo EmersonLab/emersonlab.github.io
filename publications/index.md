@@ -9,11 +9,11 @@
 
 ## Preprints
 
-* Shukla H.G., Chakrabroty M.✉, **Emerson J.J.**✉, (2024). <br>
+* Shukla H.G., Chakrabroty M.✉, **Emerson J.J.**✉ (2024). <br>
 Genetic variation in recalcitrant repetitive regions of the Drosophila melanogaster genome. bioRxiv 2024.06.11.598575. <br>
 [(pdf)](/documents/Shukla2024bioRxivRecalcitrant.pdf) [(doi)](https://doi.org/10.1101/2024.06.11.598575)
 
-* Zhang X.✉, **Emerson J.J.**✉, (2019). <br>
+* Zhang X.✉, **Emerson J.J.**✉ (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
