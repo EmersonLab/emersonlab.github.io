@@ -17,13 +17,13 @@ Inferring the genetic architecture of expression variation from replicated high 
 
 <!---
 <a name = 'p'></a>
-Title/Journal <br>
+* Title/Journal <br>
 Authors <br>
 [(pdf)](/documents/) [(doi)]() [(pmc)]() [(supp)](/documents/) [(preprint)]() [(gs)]()
 --->
 
 <a name = 'p'></a>
-Leveraging long-read assemblies and machine learning to enhance short-read transposable element detection and genotyping. Genetics iyag101.<br>
+* Leveraging long-read assemblies and machine learning to enhance short-read transposable element detection and genotyping. Genetics iyag101.<br>
 Daigle A, Whitehouse LS, Zhao R, **Emerson JJ**, Schrider DR <br>
 [(pdf)](/documents/Daigle2026TEforest.pdf) [(doi)](https://doi.org/10.1093/genetics/iyag101) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11844559/) [(supp)](/documents/Daigle2026TEforest_Supplement.zip) [(preprint)](https://doi.org/10.1101/2025.02.11.637720) [(gs)](https://scholar.google.com/scholar?cites=10649822118520099024&as_sdt=2005&sciodt=0,5&hl=en)
 
