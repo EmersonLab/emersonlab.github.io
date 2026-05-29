@@ -23,7 +23,7 @@ Authors (Year) <br>
 --->
 
 <a name = 'p39'></a>
-* Daigle A., Whitehouse L.S., Zhao R., **Emerson J.J.**, Schrider D.R. (2026). <br>
+* Daigle A., Whitehouse L.S., Zhao R., **Emerson J.J.**, Schrider D.R.✉ (2026). <br>
 Leveraging long-read assemblies and machine learning to enhance short-read transposable element detection and genotyping. Genetics iyag101.<br>
 [(pdf)](/documents/Daigle2026TEforest.pdf) [(doi)](https://doi.org/10.1093/genetics/iyag101) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11844559/) [(supp)](/documents/Daigle2026TEforest_Supplement.pdf) [(preprint)](https://doi.org/10.1101/2025.02.11.637720) [(gs)](https://scholar.google.com/scholar?cites=10649822118520099024&as_sdt=2005&sciodt=0,5&hl=en)
 
@@ -38,12 +38,12 @@ Genetic variation in recalcitrant repetitive regions of the Drosophila melanogas
 [(pdf)](/documents/Shukla2025Recalcitrant.pdf) [(doi)](https://doi.org/10.1101/gr.280728.125) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11195212/) [(supp)](/documents/Shukla2025Recalcitrant_Supplement.zip) [(code)](https://genome.cshlp.org/content/genome/suppl/2025/08/04/gr.280728.125.DC1/Supplemental_Code.zip) [(preprint)](https://doi.org/10.1101/2024.06.11.598575) [(gs)](https://scholar.google.com/scholar?cites=6792042751247583298&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p36'></a>
-* Xia S., Chen J., Arsala D., **Emerson J.J.**, Long M. (2025) <br>
+* Xia S., Chen J., Arsala D., **Emerson J.J.**, Long M.✉ (2025) <br>
 Functional innovation through new genes as a general evolutionary process. Nature Genetics 57 (2), 295-309. <br>
 [(pdf)](/documents/Xia2025NewGeneReview.pdf) [(doi)](https://doi.org/10.1038/s41588-024-02059-0) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12844861/) [(supp)](/documents/Xia2025NewGeneReview_Supplement.pdf) [(gs)](https://scholar.google.com/scholar?cites=3243220381127697860&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p35'></a>
-* Lee U.J., Arsala D., Xia S., Li C., Ali M., Svetec N., Langer C.B., Sobreira D.R., Eres I., Sosa D., Chen J., Zhang L., Reilly P., Guzzetta A., **Emerson J.J.**, Andolfatto P., Zhou Q., Zhao L., Long M. (2024) <br>
+* Lee U.J., Arsala D., Xia S., Li C., Ali M., Svetec N., Langer C.B., Sobreira D.R., Eres I., Sosa D., Chen J., Zhang L., Reilly P., Guzzetta A., **Emerson J.J.**, Andolfatto P., Zhou Q., Zhao L., Long M.✉ (2024) <br>
 The three-dimensional genome drives the evolution of asymmetric gene duplicates via enhancer capture-divergence. Science Advances 10 (51) eadn6625.<br>
 [(pdf)](/documents/Lee2024NewGene3D.pdf) [(doi)](https://doi.org/10.1126/sciadv.adn6625) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11654672/) [(supp)](/documents/Lee2024NewGene3D_Supplement.zip) [(preprint)](https://doi.org/10.1101/2022.11.30.518413) [(gs)](https://scholar.google.com/scholar?cites=3011048226195386895&as_sdt=2005&sciodt=0,5&hl=en)
 
@@ -93,7 +93,7 @@ Evolutionary genomics of structural variation in Asian rice (*Oryza sativa*) dom
 [(pdf)](/documents/KouLiao2020MBE.pdf) [(doi)](https://doi.org/10.1093/molbev/msaa185) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7743901/) [(supp)](/documents/KouLiao2020MBESupplement.pdf) [(preprint)](https://doi.org/10.1101/2019.12.19.883231) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11292107199827281134,12221614290703595530)
 
 <a name = 'p25'></a>
-* Heras J.✉, Chakraborty M.,  **Emerson J.J.**, German D.P. (2020). <br>
+* Heras J.✉, Chakraborty M.,  **Emerson J.J.**, German D.P.✉ (2020). <br>
 Genomic and biochemical evidence of dietary adaptation in a marine herbivorous fish. Proc. R. Soc. B. 287. <br>
 [(pdf)](/documents/Heras2020ProcRSocB.pdf) [(doi)](https://doi.org/10.1098/rspb.2019.2327) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7062031/) [(supp)](/documents/Heras2020ProcRSocBSupplement.zip)  [(preprint)](https://doi.org/10.1101/457705) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11663346310448937264,11910188989131780502)
 
@@ -135,37 +135,37 @@ Contiguous and accurate de novo assembly of metazoan genomes with modest long re
 [(pdf)](/documents/Chakraborty2016NucAcidsRes.pdf) [(doi)](https://doi.org/10.1093/nar/gkw654) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5100563/) [(supp)](/documents/Chakraborty2016NucAcidsResSupplement.zip) [(preprint)](https://doi.org/10.1101/029306) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14843707696417085168,3636395027459485028)
 
 <a name = 'p17'></a>
-* Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C., and Li W.-H. (2013). <br>
+* Schaefke B.\*, **Emerson J.J.**\*, Wang T.-Y., Lu M.-Y.J., Hsieh L.-C., and Li W.-H.✉ (2013). <br>
 Inheritance of Gene Expression Level and Selective Constraints on Trans- and Cis-Regulatory Changes in Yeast. Mol Biol Evol *30*, 2121–2133. <br>
 [(pdf)](/documents/Schaefke2013MolBiolEvol.pdf) [(doi)](https://doi.org/10.1093/molbev/mst114) [(supp)](/documents/Schaefke2013MolBiolEvolSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5387154761202960820)
 
 <a name = 'p16'></a>
-* Vicoso B.\*, **Emerson J.J.**\*, Zektser Y., Mahajan S., and Bachtrog D. (2013). <br>
+* Vicoso B.\*, **Emerson J.J.**\*, Zektser Y., Mahajan S., and Bachtrog D.✉ (2013). <br>
 Comparative Sex Chromosome Genomics in Snakes: Differentiation, Evolutionary Strata, and Lack of Global Dosage Compensation. PLoS Biology *11*, e1001643. <br>
 [(pdf)](/documents/Vicoso2013PLoSBio.pdf) [(doi)](https://doi.org/10.1371/journal.pbio.1001643) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3754893/) [(supp)](/documents/Vicoso2013PLoSBioSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477179101938026431,11552144124554439523)
 
 <a name = 'p15'></a>
-* Pool J.E., Corbett-Detig R.B., Sugino R.P., Stevens K.A., Cardeno C.M., Crepeau M.W., Duchen P., **Emerson J.J.**, Saelao P., Begun D.J., and Langley C.H. (2012). <br>
+* Pool J.E.✉, Corbett-Detig R.B., Sugino R.P., Stevens K.A., Cardeno C.M., Crepeau M.W., Duchen P., **Emerson J.J.**, Saelao P., Begun D.J., and Langley C.H. (2012). <br>
 Population Genomics of Sub-Saharan *Drosophila melanogaster*: African Diversity and Non-African Admixture. PLoS Genetics *8*, e1003080. <br>
 [(pdf)](/documents/Pool2012PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1003080) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3527209/) [(supp)](/documents/Pool2012PLoSGenSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17844442895627523184,8791947515736466096)
 
 <a name = 'p14'></a>
-* Cardoso-Moreira M., **Emerson J.J.**, Clark A.G., and Long M. (2011). <br>
+* Cardoso-Moreira M.✉, **Emerson J.J.**, Clark A.G., and Long M. (2011). <br>
 *Drosophila* Duplication Hotspots Are Associated with Late-Replicating Regions of the Genome. PLoS Genetics *7*, e1002340. <br>
 [(pdf)](/documents/Cardoso-Moreira2011PLoSGen.pdf) [(doi)](https://doi.org/10.1371/journal.pgen.1002340) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3207856/) [(supp)](/documents/Cardoso-Moreira2011PLoSGenSupplement.zip) [(gs)](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12162824910502002246)
 
 <a name = 'p13'></a>
-* Nikaido M., Sasaki T., **Emerson J.J.**, Aibara M., Mzighani S.I., Budeba Y.L., Ngatunga B.P., Iwata M., Abe Y., Li W.-H., and Okada N. (2011). <br>
+* Nikaido M., Sasaki T., **Emerson J.J.**, Aibara M., Mzighani S.I., Budeba Y.L., Ngatunga B.P., Iwata M., Abe Y., Li W.-H.✉, and Okada N.✉ (2011). <br>
 Genetically distinct coelacanth population off the northern Tanzanian coast. PNAS *108*, 18009–18013. <br>
 [(pdf)](/documents/Nikaido2011PNAS.pdf) [(doi)](https://doi.org/10.1073/pnas.1115675108) [(supp)](/documents/Nikaido2011PNASSupplement.zip) [(gs)](https://scholar.google.com/scholar?cites=16907955909713357321&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p12'></a>
-* **Emerson J.J.** and Li W.-H. (2010). <br>
+* **Emerson J.J.** and Li W.-H.✉ (2010). <br>
 The genetic basis of evolutionary change in gene expression levels. Philosophical Transactions of the Royal Society B: Biological Sciences *365*, 2581–2590. <br>
 [(pdf)](/documents/Emerson2010PhilTransB.pdf) [(doi)](https://doi.org/10.1098/rstb.2010.0005) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2935095/) [(gs)](https://scholar.google.com/scholar?cites=9389792757426778411&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p11'></a>
-* **Emerson J.J.**\*, Hsieh L.-C.\*, Sung H.-M.\*, Wang T.-Y.\*, Huang C.-J., Lu H.H.-S., Lu M.-Y.J., Wu S.-H., and Li W.-H. (2010). <br>
+* **Emerson J.J.**\*, Hsieh L.-C.\*, Sung H.-M.\*, Wang T.-Y.\*, Huang C.-J., Lu H.H.-S., Lu M.-Y.J., Wu S.-H., and Li W.-H.✉ (2010). <br>
 Natural selection on cis and trans regulation in yeasts. Genome Research *20*, 826–836. <br>
 [(pdf)](/documents/Emerson2010GenRes.pdf) [(doi)](https://doi.org/10.1101/gr.101576.109) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2877579/) [(supp)](/documents/Emerson2010GenResSupplement.zip) [(gs)](https://scholar.google.com/scholar?cites=17082772547463365160&as_sdt=2005&sciodt=0,5&hl=en)
 
@@ -180,7 +180,7 @@ The origin of new genes. In Evolutionary Genomics and Proteomics (Sunderland, Ma
 [(pdf)](/documents/Fan2007EvGenProt.pdf) [(gs)](https://scholar.google.com/scholar?cites=12682144279774649348&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p08'></a>
-* Cowan A.T., Bowman G.R., Edwards K.F., **Emerson J.J.**, and Turkewitz A.P. (2005). <br>
+* Cowan A.T., Bowman G.R., Edwards K.F., **Emerson J.J.**, and Turkewitz A.P.✉ (2005). <br>
 Genetic, Genomic, and Functional Analysis of the Granule Lattice Proteins in *Tetrahymena* Secretory Granules. Mol. Biol. Cell *16*, 4046–4060. <br>
 [(pdf)](/documents/Cowan2005MolBiolCell.pdf) [(doi)](https://dx.doi.org/10.1091/mbc.E05-01-0028) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1196318/) [(gs)](https://scholar.google.com/scholar?cites=6078686038647603636&as_sdt=2005&sciodt=0,5&hl=en)
 
@@ -195,17 +195,17 @@ Sequence and comparative analysis of the chicken genome provide unique perspecti
 [(pdf)](/documents/Hillier2004Nature.pdf) [(doi)](https://doi.org/10.1038/nature03154) [(supp)](/documents/Hillier2004NatureSupplement.zip) [(gs)](https://scholar.google.com/scholar?cites=9222762688688757928&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p05'></a>
-* Betran E., **Emerson J.J.**, Kaessmann H., and Long M. (2004). <br>
+* Betran E., **Emerson J.J.**, Kaessmann H., and Long M.✉ (2004). <br>
 Sex Chromosomes and Male Functions: Where Do New Genes Go? Cell Cycle *3*, 871–873. <br>
 [(pdf)](/documents/Betran2004CellCycle.pdf) [(doi)](https://doi.org/10.4161/cc.3.7.960) [(gs)](https://scholar.google.com/scholar?cites=6349689190971382214&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p04'></a>
-* Wang W., Thornton K., **Emerson J.J.**, and Long M. (2004). <br>
+* Wang W., Thornton K., **Emerson J.J.**, and Long M.✉ (2004). <br>
 Nucleotide Variation and Recombination Along the Fourth Chromosome in *Drosophila simulans*. Genetics *166*, 1783–1794. <br>
 [(pdf)](/documents/Wang2004Genetics.pdf) [(doi)](https://doi.org/10.1534/genetics.166.4.1783) [(pmc)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1470817/) [(gs)](https://scholar.google.com/scholar?cites=13809616305278174632&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p03'></a>
-* **Emerson J.J.**\*, Kaessmann H.\*, Betrán E., and Long M. (2004). <br>
+* **Emerson J.J.**\*, Kaessmann H.\*, Betrán E., and Long M.✉ (2004). <br>
 Extensive Gene Traffic on the Mammalian X Chromosome. Science *303*, 537–540. <br>
 [(pdf)](/documents/Emerson2004Science.pdf) [(doi)](https://doi.org/10.1126/science.1090042) [(supp)](/documents/Emerson2004ScienceSupplement.zip) [(gs)](https://scholar.google.com/scholar?cites=17065792919869351238&as_sdt=2005&sciodt=0,5&hl=en)
 
