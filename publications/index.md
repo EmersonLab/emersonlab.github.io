@@ -15,7 +15,19 @@ Inferring the genetic architecture of expression variation from replicated high 
 
 ## Published
 
-<a name = 'p35'></a>
+<!---
+<a name = 'p'></a>
+Title/Journal <br>
+Authors <br>
+[(pdf)](/documents/) [(doi)]() [(pmc)]() [(supp)](/documents/) [(preprint)]() [(gs)]()
+--->
+
+<a name = 'p'></a>
+Leveraging long-read assemblies and machine learning to enhance short-read transposable element detection and genotyping. Genetics iyag101.<br>
+Daigle A, Whitehouse LS, Zhao R, **Emerson JJ**, Schrider DR <br>
+[(pdf)](/documents/Daigle2026TEforest.pdf) [(doi)](https://doi.org/10.1093/genetics/iyag101) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11844559/) [(supp)](/documents/Daigle2026TEforest_Supplement.zip) [(preprint)](https://doi.org/10.1101/2025.02.11.637720) [(gs)](https://scholar.google.com/scholar?cites=10649822118520099024&as_sdt=2005&sciodt=0,5&hl=en)
+
+<a name = 'p'></a>
 * Shukla H.G., Chakrabroty M.✉, **Emerson J.J.**✉ (2025). <br>
 Genetic variation in recalcitrant repetitive regions of the Drosophila melanogaster genome. Genome Research 35: 2023-2040.  <br>
 [(pdf)](/documents/Shukla2025Recalcitrant.pdf) [(doi)](https://doi.org/10.1101/gr.280728.125) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11195212/) [(supp)](/documents/Shukla2025Recalcitrant_Supplement.zip) [(code)](https://genome.cshlp.org/content/genome/suppl/2025/08/04/gr.280728.125.DC1/Supplemental_Code.zip) [(preprint)](https://doi.org/10.1101/2024.06.11.598575) [(gs)](https://scholar.google.com/scholar?cites=6792042751247583298&as_sdt=2005&sciodt=0,5&hl=en)
