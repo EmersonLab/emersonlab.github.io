@@ -18,19 +18,34 @@ Inferring the genetic architecture of expression variation from replicated high 
 <!---
 <a name = 'p'></a>
 * Title/Journal <br>
-Authors <br>
+Authors (Year) <br>
 [(pdf)](/documents/) [(doi)]() [(pmc)]() [(supp)](/documents/) [(preprint)]() [(gs)]()
 --->
 
-<a name = 'p'></a>
+<a name = 'p39'></a>
 * Leveraging long-read assemblies and machine learning to enhance short-read transposable element detection and genotyping. Genetics iyag101.<br>
 Daigle A., Whitehouse L.S., Zhao R., **Emerson J.J.**, Schrider D.R. (2026). <br>
 [(pdf)](/documents/Daigle2026TEforest.pdf) [(doi)](https://doi.org/10.1093/genetics/iyag101) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11844559/) [(supp)](/documents/Daigle2026TEforest_Supplement.zip) [(preprint)](https://doi.org/10.1101/2025.02.11.637720) [(gs)](https://scholar.google.com/scholar?cites=10649822118520099024&as_sdt=2005&sciodt=0,5&hl=en)
 
-<a name = 'p'></a>
+<a name = 'p38'></a>
+* Hu M.\*, P Wan P.\*, Chen C.\*, Tang S, Chen J, Wang L, Chakraborty M, Zhou Y.,  Chen J., Gaut B.S., **Emerson J.J.**✉, Liao Y.✉ (2025)<br>
+Accurate, scalable structural variant genotyping in complex genomes at population scales. Molecular Biology and Evolution . <br>
+[(pdf)](/documents/Hu2025SVGap.pdf) [(doi)](https://doi.org/10.1093/molbev/msaf180) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12362251/) [(supp)](/documents/Hu2025SVGap_Supplement.zip) [(preprint)](https://doi.org/10.1101/2025.02.07.637096 ) [(gs)](https://scholar.google.com/scholar?cites=12829626837013350089&as_sdt=2005&sciodt=0,5&hl=en)
+
+<a name = 'p37'></a>
 * Shukla H.G., Chakrabroty M.✉, **Emerson J.J.**✉ (2025). <br>
 Genetic variation in recalcitrant repetitive regions of the Drosophila melanogaster genome. Genome Research 35: 2023-2040.  <br>
 [(pdf)](/documents/Shukla2025Recalcitrant.pdf) [(doi)](https://doi.org/10.1101/gr.280728.125) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11195212/) [(supp)](/documents/Shukla2025Recalcitrant_Supplement.zip) [(code)](https://genome.cshlp.org/content/genome/suppl/2025/08/04/gr.280728.125.DC1/Supplemental_Code.zip) [(preprint)](https://doi.org/10.1101/2024.06.11.598575) [(gs)](https://scholar.google.com/scholar?cites=6792042751247583298&as_sdt=2005&sciodt=0,5&hl=en)
+
+<a name = 'p36'></a>
+* Xia S., Chen J., Arsala D., **Emerson J.J.**, Long M. (2025) <br>
+Functional innovation through new genes as a general evolutionary process. Nature Genetics 57 (2), 295-309. <br>
+[(pdf)](/documents/Xia2025NewGeneReview.pdf) [(doi)](https://doi.org/10.1038/s41588-024-02059-0) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12844861/) [(supp)](/documents/Xia2025NewGeneReview_Supplement.pdf) [(gs)](https://scholar.google.com/scholar?cites=3243220381127697860&as_sdt=2005&sciodt=0,5&hl=en)
+
+<a name = 'p35'></a>
+* Lee U.J., Arsala D., Xia S., Li C., Ali M., Svetec N., Langer C.B., Sobreira D.R., Eres I., Sosa D., Chen J., Zhang L., Reilly P., Guzzetta A., **Emerson J.J.**, Andolfatto P., Zhou Q., Zhao L., Long M. (2024) <br>
+The three-dimensional genome drives the evolution of asymmetric gene duplicates via enhancer capture-divergence. Science Advances 10 (51) eadn6625.<br>
+[(pdf)](/documents/Lee2024NewGene3D.pdf) [(doi)](https://doi.org/10.1126/sciadv.adn6625) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11654672/) [(supp)](/documents/Lee2024NewGene3D_Supplement.zip) [(preprint)](https://doi.org/10.1101/2022.11.30.518413) [(gs)](https://scholar.google.com/scholar?cites=3011048226195386895&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p34'></a>
 * Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Carter D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., **Emerson J.J.**✉, Briscoe A.✉ (2023). <br>
