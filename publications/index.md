@@ -9,15 +9,16 @@
 
 ## Preprints
 
-* Shukla H.G., Chakrabroty M.✉, **Emerson J.J.**✉ (2024). <br>
-Genetic variation in recalcitrant repetitive regions of the Drosophila melanogaster genome. bioRxiv 2024.06.11.598575. <br>
-[(pdf)](/documents/Shukla2024bioRxivRecalcitrant.pdf) [(doi)](https://doi.org/10.1101/2024.06.11.598575)
-
 * Zhang X.✉, **Emerson J.J.**✉ (2019). <br>
 Inferring the genetic architecture of expression variation from replicated high throughput allele-specific expression experiments. bioRxiv 699074. <br>
 [(pdf)](/documents/Zhang2019bioRxivASE.pdf) [(doi)](https://doi.org/10.1101/699074)
 
 ## Published
+
+<a name = 'p35'></a>
+* Shukla H.G., Chakrabroty M.✉, **Emerson J.J.**✉ (2025). <br>
+Genetic variation in recalcitrant repetitive regions of the Drosophila melanogaster genome. Genome Research 35: 2023-2040.  <br>
+[(pdf)](/documents/Shukla2025Recalcitrant.pdf) [(doi)](https://doi.org/10.1101/gr.280728.125) [(pmc)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11195212/) [(supp)](/documents/Shukla2025Recalcitrant.pdf) [(preprint)](https://doi.org/10.1101/2024.06.11.598575) [(gs)](https://scholar.google.com/scholar?cites=6792042751247583298&as_sdt=2005&sciodt=0,5&hl=en)
 
 <a name = 'p34'></a>
 * Chakraborty M., Lara A.G., Dang A., McCulloch K.J., Rainbow D., Carter D., Ngo L.T., Solares E.A., Said I., Corbett-Detig R., Gilbert L.E., **Emerson J.J.**✉, Briscoe A.✉ (2023). <br>
